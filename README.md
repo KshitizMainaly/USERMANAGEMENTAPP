@@ -3,7 +3,7 @@
 
 
 ## Preview my code at
-**[Live Demo on Netlify](myDuumywebsite.com)**  
+**[Live Demo on Netlify](https://usermanagementap.netlify.app/)**  
 ![Dashboard Screenshot](./src/assets/dashboardUsers.png)
 ##  **Features**  
 - View, create, edit, and delete users  
