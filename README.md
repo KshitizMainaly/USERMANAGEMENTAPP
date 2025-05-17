@@ -1,12 +1,26 @@
-# React + Vite
+# User Management Dashboard  
+*A React-based admin panel for managing users with CRUD operations.*  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## Preview my code at
+**[Live Demo on Netlify](myDuumywebsite.com)**  
+![alt text](image.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  **Features**  
+- View, create, edit, and delete users  
+- Data persistence via `localStorage`  
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+ ## techStack Used  
+- **Frontend**: React  
+- **UI**: Ant Design + Tailwind CSS  
+- **Routing**: React Router  
+
+
+---
+
+## 🧑‍💻 Author  
+Created by **Kshitiz Mainaly**– **[connect on LinkedIn](https://www.linkedin.com/in/kshitiz-mainali-2a7a65298/)**
+
+---
