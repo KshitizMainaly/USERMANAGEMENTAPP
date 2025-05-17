@@ -4,7 +4,7 @@
 
 ## Preview my code at
 **[Live Demo on Netlify](myDuumywebsite.com)**  
-
+![alt text](image.png)
 
 ##  **Features**  
 - View, create, edit, and delete users  
