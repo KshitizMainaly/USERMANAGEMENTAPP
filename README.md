@@ -4,8 +4,7 @@
 
 ## Preview my code at
 **[Live Demo on Netlify](myDuumywebsite.com)**  
-![alt text](image.png)
-
+![Dashboard Screenshot](./src/assets/dashboardUsers.png)
 ##  **Features**  
 - View, create, edit, and delete users  
 - Data persistence via `localStorage`  
